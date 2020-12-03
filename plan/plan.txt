@@ -1,0 +1,17 @@
+Overview: The site will be a blog for news relating to the Lego company which will pertain to various events and
+new products being released. It won't have many pages, consisting of the main page, an articles page, an 
+about us page, and a link to the lego website. It would be more static, with it's responsiveness mainly 
+pertaining to opening articles and managing them with types of news and a search bar.
+Goals: The main goals of the site would be to help inform people who enjoy lego about the things the lego 
+company would be working on.
+Target Users: Believe it or not the site would be targeted more towards adults, as it would help them be 
+prepared for their kids who would badger them as well as help adult lego builders find challenging sets to
+make, such as a large town piece.
+Content: The main page will have a introduction, a most popular article, a few recent articles, and tabs for 
+the other pages. The articles page has a list of articles, a search bar to search for specific ones, and a 
+few pieces to filter the articles. The about us page will show the people who work on the site, inclucing 
+names, email, and phone numbers. The final one is literally just a portal to the official lego website.
+Similar Sites: The main site used for inspiration was actually a Disney blog that caught up on Disney related
+news, making it a good starting point. In it, there would be various articles about the state of Disney and 
+it's products, making it relevant for any Disney fans who are searching for a 3rd party view on something.
+I am looking to make something similar but with lego.
